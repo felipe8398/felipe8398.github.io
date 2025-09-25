@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Post Explotation Linux'
-Categorias: Post Explotation
+title: 'Post Exploitation Linux'
+Categorias: Post Exploitation
 description: Pós exploração em sistemas Linux
 date: 2025-09-23 12:00 -0300
 ---
