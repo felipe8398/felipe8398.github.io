@@ -5,7 +5,7 @@ order: 2
 ---
 
 # Felipe Silveira
-**Analista de Segurança da Informação | Blue Team | SOC | CSIRT**
+**Analista de Segurança da Informação | Blue Team | SOC | CSIRT | Threat Hunting**
 
 | 📧 Email | 🔗 LinkedIn | 💻 Github |
 |----------|-------------|-----------|
