@@ -8,7 +8,6 @@ order: 4
 
 ### **Analista de Segurança da Informação | Blue Team | SOC | CSIRT | Threat Hunting**
 
-|----------|-------------|-----------|
 | [Email](mailto:felipe.psilveira@outlook.com) | [LinkedIn](https://www.linkedin.com/in/felipe-silveira/) | [github.com](https://github.com/felipe8398) |
 | 💀 [TryHackMe](https://tryhackme.com/p/felipe8398) | 👾 [Hacking Club](https://app.hackingclub.com/profile/user/8322) | 👻 [Blue Team Labs](https://blueteamlabs.online/home/user/01a856d604ae195822124a) |
 
