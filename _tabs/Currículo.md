@@ -14,7 +14,11 @@ order: 2
 ---
 
 ## 👤 Sobre Mim
-Profissional de segurança com experiência em **Resposta a Incidentes**. Apaixonado por **segurança ofensiva**, venho expandindo meu conhecimento para o contexto de **Purple Team**.
+Sou um profissional movido por desafios e apaixonado por cibersegurança, com sólida experiência em Resposta a Incidentes e Análise Forense. Ao longo da minha trajetória, atuei em ambientes críticos utilizando tecnologias líderes de mercado, contribuindo diretamente para a detecção e mitigação de ameaças.
+
+Tenho forte interesse por Segurança Ofensiva, e venho expandindo meu conhecimento no contexto de Purple Team / Threat Hunting, buscando unir o melhor do Red e do Blue Team em prol da defesa proativa.
+
+Meu objetivo é atuar como Analista de Segurança da Informação Sênior, com foco em Resposta a Incidentes, ou integrar um Purple Team / Threat Hunting Team em posição Sênior, onde eu possa aplicar minha expertise técnica..
 
 ---
 
