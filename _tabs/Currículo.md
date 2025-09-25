@@ -7,9 +7,9 @@ order: 4
 # Felipe Silveira
 **Analista de Segurança da Informação | Blue Team | SOC | CSIRT | Threat Hunting**
 
-| 📧 Email | 🔗 LinkedIn | 💻 Github |
-|----------|-------------|-----------|
-| felipe.psilveira@outlook.com | [linkedin.com/in/felipe-silveira](https://www.linkedin.com/in/felipe-silveira/) | [github.com/felipe8398](https://github.com/felipe8398) |
+| 📧 Email | 🔗 LinkedIn | 💻 Github | 💀 TryHackMe | 👾 Hacking Club |
+|----------|-------------|-----------|-----------|-----------|
+| felipe.psilveira@outlook.com | [linkedin.com/in/felipe-silveira](https://www.linkedin.com/in/felipe-silveira/) | [github.com/felipe8398](https://github.com/felipe8398) | [TryHackme/felipe8398](https://tryhackme.com/p/felipe8398) | [Hacking Club](https://app.hackingclub.com/profile/user/8322)
 
 ---
 
