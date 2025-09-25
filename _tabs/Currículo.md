@@ -8,9 +8,14 @@ order: 4
 
 ### **Analista de Segurança da Informação | Blue Team | SOC | CSIRT | Threat Hunting**
 
-| 📧 Email | 🔗 LinkedIn | 💻 GitHub | 💀 TryHackMe | 👾 Hacking Club |
-|----------|------------:|----------:|-------------:|----------------:|
-| [felipe.psilveira@outlook.com](mailto:felipe.psilveira@outlook.com) | [Felipe Silveira — LinkedIn](https://www.linkedin.com/in/felipe-silveira/) | [github.com/felipe8398](https://github.com/felipe8398) | [tryhackme.com/p/felipe8398](https://tryhackme.com/p/felipe8398) | [Hacking Club — perfil](https://app.hackingclub.com/profile/user/8322) |
+| 📧 Email | 🔗 LinkedIn | 💻 GitHub |
+|----------|-------------|-----------|
+| [felipe.psilveira@outlook.com](mailto:felipe.psilveira@outlook.com) | [Felipe Silveira — LinkedIn](https://www.linkedin.com/in/felipe-silveira/) | [github.com/felipe8398](https://github.com/felipe8398) |
+
+| 💀 TryHackMe | 👾 Hacking Club |
+|--------------|----------------|
+| [tryhackme.com/p/felipe8398](https://tryhackme.com/p/felipe8398) | [Hacking Club — perfil](https://app.hackingclub.com/profile/user/8322) |
+
 
 
 ---
