@@ -225,3 +225,13 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+jekyll_compose:
+  default_front_matter:
+    drafts:
+      category: "Pós Exploração"
+      description:
+    posts:
+      category: "Pós Exploração"
+      published: false
+      sitemap: false
