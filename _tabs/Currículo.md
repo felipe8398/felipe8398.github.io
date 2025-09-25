@@ -11,10 +11,8 @@ order: 4
 | 📧 Email | 🔗 LinkedIn | 💻 GitHub |
 |----------|-------------|-----------|
 | [felipe.psilveira@outlook.com](mailto:felipe.psilveira@outlook.com) | [Felipe Silveira — LinkedIn](https://www.linkedin.com/in/felipe-silveira/) | [github.com/felipe8398](https://github.com/felipe8398) |
+| 💀 [TryHackMe](https://tryhackme.com/p/felipe8398) | 👾 [Hacking Club](https://app.hackingclub.com/profile/user/8322) | 👻 [Blue Team Labs](https://blueteamlabs.online/home/user/01a856d604ae195822124a) |
 
-| 💀 TryHackMe | 👾 Hacking Club | 👻 Blue Team Labs |
-|--------------|----------------|----------------|
-| [tryhackme.com/p/felipe8398](https://tryhackme.com/p/felipe8398) | [Hacking Club — perfil](https://app.hackingclub.com/profile/user/8322) | [Blue Team Labs - Perfil](https://blueteamlabs.online/home/user/01a856d604ae195822124a) |
 
 
 
