@@ -3,7 +3,7 @@ layout: post
 title: 'Post Exploitation Linux'
 Categorias: Red Team
 date: 2025-09-23 12:00 -0300
-description: "técnicas de pós exploração em ambiente Linux"
+description: "Técnicas de pós exploração em ambiente Linux"
 show_image_post: true
 image: /assets/img/thumb/post-exp-linux.png
 ---
