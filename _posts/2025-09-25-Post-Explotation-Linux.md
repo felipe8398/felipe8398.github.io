@@ -4,6 +4,7 @@ title: 'Post Exploitation Linux'
 Categorias: Post Exploitation
 description: Pós exploração em sistemas Linux
 date: 2025-09-23 12:00 -0300
+image: /assets/img/thumb/post-exp-linux.png
 ---
 # H1
 ## H2
