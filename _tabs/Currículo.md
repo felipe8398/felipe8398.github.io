@@ -27,28 +27,58 @@ Meu objetivo é atuar como Analista de Segurança da Informação Sênior, com f
 **Analista de Segurança SR**  
 _Vivo (Telefônica Brasil)_  
 📅 08/2023 - Presente  
-> xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+- Condução de investigações completas de incidentes de segurança e atividades
+maliciosas complexas, utilizando de ferramentas do tipo EDR, XDR, SIEM, NDR.
+- Desenvolvimento de estratégias de hardening e resposta para ambientes críticos.
+- Realização de Threat Hunting proativo, com elaboração de hipóteses e análises
+comportamentais.
+- Colaboração com outras áreas para melhoria contínua dos playbooks de resposta a
+incidentes.
 
 ---
 
 **Analista de Segurança PL**  
 _Vivo (Telefônica Brasil)_  
 📅 02/2022 - 07/2023  
-> xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+- Condução de investigações completas de incidentes de segurança e atividades
+maliciosas complexas, utilizando de ferramentas do tipo EDR, XDR, SIEM, NDR..
+- Realização de Threat Hunting proativo, com elaboração de hipóteses e análises
+comportamentais.
+- Colaboração com outras áreas para melhoria contínua dos playbooks de resposta a
+incidentes.
 
 ---
 
 **Analista de Segurança PL**  
 _Locaweb_  
 📅 07/2021 - 01/2022  
-> xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+- Tratar incidentes de segurança atuando em todas as etapas do ciclo
+- Executar procedimentos de segurança
+- Auxiliar na documentação de processos
+- Identificar vulnerabilidades conhecidas
+- Análise preliminar de artefato
+- Análise preliminar de perímetro
+- Identificar prioridade e severidade de incidentes
+- Notificar clientes internos e externos
+- Análise de tráfego e mitigação
+- Execução de projetos de segurança da informação
+- Tratamento de prioridades internas/externas
+- Tratamento de incidentes não resolvidos no primeiro nível
 
 ---
 
 **Analista de Segurança JR**  
 _Locaweb_  
 📅 07/2019 - 06/2021  
-> xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+- Tratar incidentes de segurança atuando em todas as etapas do ciclo
+- Executar procedimentos de segurança
+- Auxiliar na documentação de processos
+- Identificar vulnerabilidades conhecidas
+- Análise preliminar de artefato
+- Análise preliminar de perímetro
+- Identificar prioridade e severidade de incidentes
+- Notificar clientes internos e externos
+- Análise de tráfego e mitigação
 
 ---
 
