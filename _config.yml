@@ -233,5 +233,5 @@ jekyll_compose:
       description:
     posts:
       category: "Pós Exploração"
-      published: false
+      published: true
       sitemap: false
