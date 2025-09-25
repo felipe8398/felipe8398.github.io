@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 3
 ---
 
 Vou falar um pouco sobre a minha trajetória profissional nesse mundão de "ai meu Deus". Aos 16 anos, comecei a trabalhar em uma loja de informática e, naquele momento, percebi que queria seguir uma carreira em TI. Iniciei a faculdade no curso de Redes de Computadores (escolha no susto, como 90% dos jovens de 16 anos) e, desde o terceiro semestre, tive a certeza de que queria seguir na área de Segurança da Informação.
