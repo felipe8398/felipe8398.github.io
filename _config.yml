@@ -229,9 +229,9 @@ jekyll-archives:
 jekyll_compose:
   default_front_matter:
     drafts:
-      categories: "Pós Exploração"
+      category: "Pós Exploração"
       description:
     posts:
-      categories: "Pós Exploração"
+      category: "Pós Exploração"
       published: false
       sitemap: false
