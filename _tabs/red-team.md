@@ -1,5 +1,6 @@
 # Red Team
 ---
+layout: tab
 title: Red Team
 permalink: /categories/red-team/
 order: 6
