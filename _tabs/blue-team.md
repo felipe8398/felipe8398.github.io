@@ -1,5 +1,6 @@
+# Blue Team
 --- 
-# the default layout is 'page' 
+layout: category
 title: Blue Team 
 permalink: /categories/blue-team/ 
 order: 4 
