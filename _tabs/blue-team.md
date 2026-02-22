@@ -1,4 +1,4 @@
-# Red Team
+# Blue Team
 ---
 title: Blue Team
 permalink: /categories/blue-team/
