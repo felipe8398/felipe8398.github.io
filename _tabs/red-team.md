@@ -2,7 +2,7 @@
 ---
 # the default layout is 'page'
 title: Red Team
-icon: fas fa-info-circle
+icon: fas fa-user-secret
 permalink: /categories/red-team/
 order: 5
 ---
