@@ -1,4 +1,3 @@
-# red-team
 ---
 layout: tab
 title: Red Team
