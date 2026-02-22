@@ -236,9 +236,3 @@ jekyll_compose:
       published: true
       sitemap: true
         drafts:
-      categories: "Red Team"
-      description:
-    posts:
-      categories: "Red Team"
-      published: true
-      sitemap: true
