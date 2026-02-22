@@ -229,10 +229,16 @@ jekyll-archives:
 jekyll_compose:
   default_front_matter:
     drafts:
-      categories: "Blue Team"
+      category: "Blue Team"
       description:
     posts:
-      categories: "Blue Team"
+      category: "Blue Team"
       published: true
       sitemap: true
-        drafts:
+    drafts:
+      category: "Red Team"
+      description:
+    posts:
+      category: "Red Team"
+      published: true
+      sitemap: true
