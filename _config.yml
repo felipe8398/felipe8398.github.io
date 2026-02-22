@@ -229,9 +229,9 @@ jekyll-archives:
 jekyll_compose:
   default_front_matter:
     drafts:
-      category: "Pós Exploração"
+      category: "Blue Team"
       description:
     posts:
-      category: "Pós Exploração"
+      category: "Blue Team"
       published: true
       sitemap: false
