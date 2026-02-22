@@ -1,7 +1,8 @@
-# Blue Team
----
-title: Blue Team
-permalink: /categories/blue-team/
-order: 5
-icon: fas fa-shield-alt
+# Blue Team 
+--- 
+# the default layout is 'page' 
+title: Blue Team 
+permalink: /categories/blue-team/ 
+order: 4 
+icon: fas fa-shiled-halved 
 ---
