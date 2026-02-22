@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'Criando um HoneyPOT no 0800'
+title: 'aaaaaaaa'
 categories: [Red Team]
 date: 2025-09-23 12:00 -0300
-description: "Criando um HoneyPOT com docker, Oracle Cloud e fé"
+description: "Caaaaaaaaaraaaaaaiaaaaaando um HoneyPOT com docker, Oracle Cloud e fé"
 show_image_post: true
 image: /assets/img/thumb/Honeypot.png
 ---
