@@ -2,5 +2,5 @@
 layout: category
 title: Blue Team
 type: category
-permalink: /blue-team/
+permalink: /categories/blue-team/
 ---
