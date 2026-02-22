@@ -1,8 +1,8 @@
 # blue-team
 ---
-layout: tab
+# the default layout is 'page'
 title: Blue Team
 permalink: /categories/blue-team/
 order: 4
-icon: fas fa-info-circle
+icon: fas fa-shiled-halved
 ---
