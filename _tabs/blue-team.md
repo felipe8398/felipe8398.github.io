@@ -1,6 +1,5 @@
 # Blue Team
 ---
-layout: page
 title: Blue Team
 permalink: /categories/blue-team/
 order: 5
