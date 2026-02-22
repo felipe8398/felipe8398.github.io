@@ -1,5 +1,5 @@
 --- 
-# the default layout is 'page' 
+layout: category
 title: Red Team 
 permalink: /categories/red-team/ 
 order: 5 
