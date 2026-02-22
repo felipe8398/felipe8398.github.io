@@ -1,5 +1,6 @@
 # Blue Team
 ---
+layout: tab
 title: Blue Team
 permalink: /categories/blue-team/
 order: 5
