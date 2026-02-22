@@ -1,7 +1,11 @@
+- title: Home
+  url: /
+
 - title: Blue Team
-  url: /categories/blue-team/
-  icon: fas fa-shield-alt
+  url: /blue-team/
 
 - title: Red Team
-  url: /categories/red-team/
-  icon: fas fa-user-secret
+  url: /red-team/
+
+- title: Categories
+  url: /categories/
