@@ -1,23 +1,24 @@
 ---
-layout: default
+layout: page
+# The Category layout
 ---
-<div class="container">
 
-  <h1 class="category-title">{{ page.title }}</h1>
+{% include lang.html %}
 
-  {% assign found_posts = site.categories[page.title] %}
+<div id="page-category">
+  <h1 class="ps-lg-2">
+    <i class="far fa-folder-open fa-fw text-muted"></i>
+    {{ page.title }}
+    <span class="lead text-muted ps-2">{{ page.posts | size }}</span>
+  </h1>
 
-  {% if found_posts %}
-    <ul class="category-posts">
-      {% for post in found_posts %}
-        <li>
-          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-          <span class="post-date">{{ post.date | date: "%d %b %Y" }}</span>
-        </li>
-      {% endfor %}
-    </ul>
-  {% else %}
-    <p>Nenhum post encontrado nesta categoria.</p>
-  {% endif %}
-
+  <ul class="content ps-0">
+    {% for post in page.posts %}
+      <li class="d-flex justify-content-between px-md-3">
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <span class="dash flex-grow-1"></span>
+        {% include datetime.html date=post.date class='text-muted small text-nowrap' lang=lang %}
+      </li>
+    {% endfor %}
+  </ul>
 </div>
