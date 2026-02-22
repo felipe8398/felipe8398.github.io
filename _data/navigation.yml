@@ -1,3 +1,7 @@
 - title: Blue Team
   url: /categories/blue-team/
   icon: fas fa-shield-alt
+
+- title: Red Team
+  url: /categories/red-team/
+  icon: fas fa-user-secret
