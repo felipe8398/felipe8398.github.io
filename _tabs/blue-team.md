@@ -1,4 +1,3 @@
-# Blue Team
 --- 
 layout: category
 title: Blue Team 
