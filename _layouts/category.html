@@ -2,11 +2,12 @@
 layout: default
 ---
 <div class="container">
-  <h1 class="category-title">{{ page.title | default: page.category }}</h1>
+  {% assign cat_name = page.category | default: page.title %}
+  <h1 class="category-title">{{ cat_name | capitalize }}</h1>
 
-  {% if site.categories[page.category] %}
+  {% if site.categories[cat_name] %}
     <ul class="category-posts">
-      {% for post in site.categories[page.category] %}
+      {% for post in site.categories[cat_name] %}
         <li>
           <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
           <span class="post-date">{{ post.date | date: "%d %b %Y" }}</span>
