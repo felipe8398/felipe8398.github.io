@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Criando um HoneyPOT no 0800"
-categories: [Blue Team]
-date: 2025-09-23 12:00:00 -0300
+title: 'Criando um HoneyPOT no 0800'
+Categorias: Blue Team
+date: 2025-09-23 12:00 -0300
 description: "Criando um HoneyPOT com docker, Oracle Cloud e fé"
+show_image_post: true
 image: /assets/img/thumb/Honeypot.png
 ---
 # H1
