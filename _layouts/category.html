@@ -5,14 +5,9 @@ layout: default
 
   <h1 class="category-title">{{ page.title }}</h1>
 
-  {% assign found_posts = "" %}
-  {% for cat_name in site.categories %}
-    {% if cat_name[0] == page.title %}
-      {% assign found_posts = cat_name[1] %}
-    {% endif %}
-  {% endfor %}
+  {% assign found_posts = site.categories[page.title] %}
 
-  {% if found_posts != "" %}
+  {% if found_posts %}
     <ul class="category-posts">
       {% for post in found_posts %}
         <li>
