@@ -1,6 +1,6 @@
 # red-team
 ---
-layout: tab
+layout: page
 title: Red Team
 permalink: /categories/red-team/
 order: 5
